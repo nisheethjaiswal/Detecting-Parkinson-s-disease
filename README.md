@@ -1,1 +1,2 @@
-# Detecting-Parkinson-s-disease
+# Detecting-Parkinsons-disease
+
